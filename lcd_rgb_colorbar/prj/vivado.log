@@ -1,0 +1,21 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Sep 23 13:24:57 2023
+# Process ID: 5288
+# Current directory: D:/Github/FPGA-LCD-Colorbar/lcd_rgb_colorbar/prj
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent17212 D:\Github\FPGA-LCD-Colorbar\lcd_rgb_colorbar\prj\lcd_rgb_colorbar.xpr
+# Log file: D:/Github/FPGA-LCD-Colorbar/lcd_rgb_colorbar/prj/vivado.log
+# Journal file: D:/Github/FPGA-LCD-Colorbar/lcd_rgb_colorbar/prj\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Github/FPGA-LCD-Colorbar/lcd_rgb_colorbar/prj/lcd_rgb_colorbar.xpr
+INFO: [Project 1-313] Project file moved from 'E:/FPGA/wang/7020/11_lcd_rgb_colorbar/prj' since last save.
+WARNING: [filemgmt 56-2] Default IP Output Path : Could not find the directory 'D:/Github/FPGA-LCD-Colorbar/lcd_rgb_colorbar/prj/lcd_rgb_colorbar.gen/sources_1', nor could it be found using path 'E:/FPGA/wang/7020/11_lcd_rgb_colorbar/prj/lcd_rgb_colorbar.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'.
+update_compile_order -fileset sources_1
